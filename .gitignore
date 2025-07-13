@@ -2,7 +2,6 @@ src/
 test/
 demo/
 *.log
-*.png
 vite.config.js
 package-lock.json
 dist/
