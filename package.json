@@ -1,0 +1,32 @@
+{
+  "name": "talktoclover",
+  "version": "1.0.0",
+  "description": "A minimal React AI chat widget supporting OpenAI, Together AI, and more.",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "react",
+    "chat",
+    "openai",
+    "widget",
+    "ai",
+    "chatbot"
+  ],
+  "author": "Arefin Amin",
+  "license": "Arefin Amin",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "scripts": {
+    "test": "node test/test-chat.js"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.28.0",
+    "@babel/preset-react": "^7.27.1",
+    "@babel/register": "^7.27.1"
+  }
+}

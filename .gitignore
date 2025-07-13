@@ -1,0 +1,10 @@
+src/
+test/
+demo/
+assets/
+*.log
+*.png
+vite.config.js
+package-lock.json
+dist/
+node_modules/
