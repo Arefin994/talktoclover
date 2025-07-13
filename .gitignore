@@ -1,7 +1,6 @@
 src/
 test/
 demo/
-assets/
 *.log
 *.png
 vite.config.js

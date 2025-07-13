@@ -177,7 +177,7 @@ function App() {
     color: "#fff"
   }}
 />
-
+```
 ---
 
 ## 🤝 Contributing
